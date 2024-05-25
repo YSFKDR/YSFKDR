@@ -5,7 +5,7 @@
 <h2>Software Development Projects:</h2>
 
 - <b>C# (NinjaScript AddOn)</b>
-  - [PHF Indicator](https://github.com/YSFKDR/PHFIndicator)
+  - [Price Hit Frequency (PHF) Indicator](https://github.com/YSFKDR/PHFIndicator)
 
 <h2>Cybersecurity Projects:</h2>
 
