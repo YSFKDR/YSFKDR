@@ -11,7 +11,7 @@
 
 - <b>Google Cybersecurity Certificate Projects</b>
   - [File Permissions in Linux](https://docs.google.com/document/d/1QSjhivvq8T6Kaodt4nTB7TPACEc1U6kxcO4tZ5r1lvQ/edit?usp=sharing)
-  - [Sample Incident Report](https://docs.google.com/document/d/1uBEBliGOWSCOTwkj-dVG-77c1huMLBhe4ThX8iqLwmk/edit?usp=drive_link)
+  - [Algorithm for file updates in Python](https://docs.google.com/document/d/1gj08GMWIWSW3GfyD9j4b2to8aMwe9vkNrq6j6pB1IF0/edit?usp=drive_link)
   - [Apply Filters to SQL Queries](https://docs.google.com/document/d/16CzZItS4f3WI0Xw2ziG7jn4_OXoDa61dc0deQSC_8Jw/edit?usp=drive_link)
 
 <h2>Connect with me:</h2>
