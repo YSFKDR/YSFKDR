@@ -7,8 +7,9 @@
 - <b>C# (NinjaScript AddOn)</b>
   - [Price Hit Frequency (PHF) Indicator](https://github.com/YSFKDR/PHFIndicator)
  
-- <b>Python (Ubuntu)</b>
-  - [Home Network Security Monitor](https://github.com/YSFKDR/Network_Security)
+- <b>Python</b>
+  - [Home Network Security Monitor (Ubuntu)](https://github.com/YSFKDR/Network_Security)
+  - [Password Generator (Windows)](https://github.com/YSFKDR/PasswordGenerator)
 
 <h2>Cybersecurity Projects:</h2>
 
