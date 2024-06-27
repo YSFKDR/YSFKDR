@@ -20,5 +20,5 @@
 
 <h2>Connect with me:</h2>
 
-<a href="https://linkedin.com/in/yousuf-kader" target="_blank"><img align="left" alt="Yousuf Kader | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://pyramidindicators.com" target="_blank"><img align="left" alt="Pyramid Indicators | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/webauthn.svg" /></a>
+<a href="https://linkedin.com/in/yousuf-kader" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+<a href="https://pyramidindicators.com" target="_blank"><img align="left" alt="Pyramid Indicators | Website" width="30px" src="https://pyramidindicators.com/wp-content/uploads/2021/02/5605f-cropped-logo-title.png" /></a>
