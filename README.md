@@ -5,6 +5,7 @@
 
 - <b>C# (NinjaScript AddOn)</b>
   - [Export Chart Data](https://github.com/YSFKDR/NinjaTrader_Data_Exporter)
+  - [Five Minute Pulse Indicator](https://github.com/YSFKDR/FiveMinutePulse)
   - [Price Hit Frequency (PHF) Indicator](https://github.com/YSFKDR/PHFIndicator)
 
  
