@@ -4,7 +4,9 @@
 <h2>Software Development Projects:</h2>
 
 - <b>C# (NinjaScript AddOn)</b>
+  - [Chart Data Indicator](https://github.com/YSFKDR/NinjaTrader_Data_Exporter)
   - [Price Hit Frequency (PHF) Indicator](https://github.com/YSFKDR/PHFIndicator)
+
  
 - <b>Python</b>
   - [Home Network Security Monitor (Ubuntu)](https://github.com/YSFKDR/Network_Security)
