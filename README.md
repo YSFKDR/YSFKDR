@@ -1,6 +1,5 @@
 <h1>Hi, I'm Yousuf Kader! </h1>
-  <h2><a href="https://github.com/YSFKDR">Software Developer</a> 
-  <br/><a href="https://pyramidindicators.com">Owner of Pyramid Indicators</a></h2>
+  <h2><a href="https://github.com/YSFKDR">Consultant | Market Research & Data-Driven Solutions</a> 
 
 <h2>Software Development Projects:</h2>
 
