@@ -1,5 +1,5 @@
 <h1>Hi, I'm Yousuf Kader! </h1>
-  <h2><a href="https://github.com/YSFKDR">Data Analyst</a> 
+  <h2><a href="https://github.com/YSFKDR">Developer</a> 
 
 <h2>Software Development Projects:</h2>
 
