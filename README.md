@@ -22,6 +22,4 @@
 
 <h2>Connect with me:</h2>
 
- <a href="https://pyramidindicators.com" target="_blank"><img align="left" alt="Pyramid Indicators | Website" width="30px" src="https://pyramidindicators.com/wp-content/uploads/2021/02/5605f-cropped-logo-title.png" /></a>
-
 <a href="https://www.linkedin.com/in/yousuf-kader/" target="_blank"><img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" /></a>
